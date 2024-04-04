@@ -46,7 +46,7 @@ def decrypt():
     elif password == "":
         messagebox.showerror("Password Error", "Password field is empty")
     elif password != "1337":
-        messagebox.showerror("Password Error", "correct password")
+        messagebox.showerror("Password Error", "Incorrect password")
 
     
 
