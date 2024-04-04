@@ -4,7 +4,8 @@ import pybase64
 import os
 def main_screen():
     screen=Tk()
-    screen.geometry=("1024")
+    screen.geometry("512x384")
+
     screen.title=("secretmessage")
     screen.mainloop()
 
