@@ -1,1 +1,1 @@
-text encritpion
+encrtyted chat
